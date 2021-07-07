@@ -1,0 +1,50 @@
+@import 'https://fonts.googleapis.com/css2?family=Hind+Vadodara:wght@300;400;500;600&family=Oswald:wght@500&family=Pavanam&display=swap';
+html, body, div, h1, h2, h3, h4, h5, h6, p, a, img, ol, ul, li, header, nav, main, section, blockquote, figcaption, footer {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+html {
+  font-size: 16px;
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  font-family: "Times New Roman", Times, serif;
+  color: #000;
+}
+
+li {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+.main-nav {
+  background-color: #46A0E4;
+}
+.main-nav__logo {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+.main-nav__link {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  text-transform: uppercase;
+  color: #FCFCFC;
+}
+.main-nav__link:hover {
+  color: #F2BD0A;
+  transition: 0.3s;
+}/*# sourceMappingURL=main.css.map */

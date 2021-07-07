@@ -1,0 +1,19 @@
+@import 'https://fonts.googleapis.com/css2?family=Hind+Vadodara:wght@300;400;500;600&family=Oswald:wght@500&family=Pavanam&display=swap';
+
+$oswald: 'Oswald', sans-serif;
+$hind-vadodara: 'Hind Vadodara', sans-serif;
+$pavanam: 'Pavanam', sans-serif;
+
+$headline1: 500 6.1875rem $oswald;
+$headline2: 500 3.875rem $oswald;
+$headline3: 500 3.0625rem $oswald;
+$headline4: 500 2.1875rem $oswald;
+$headline5: 500 1.5625rem $oswald;
+$headline6: 500 1.3125rem $oswald;
+$subtitle1: 1rem $pavanam;
+$subtitle2: 0.875rem $pavanam;
+$body1: 400 1rem $hind-vadodara;
+$body2: 400 0.875rem $hind-vadodara;
+$button-font: 0.875rem $pavanam;
+$caption-font: 0.75rem $pavanam;
+$overline-font: 0.625rem $pavanam;
